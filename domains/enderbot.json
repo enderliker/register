@@ -5,5 +5,5 @@
   },
   "records": {
     "NS": ["daisy.ns.cloudflare.com", "hal.ns.cloudflare.com"]
-  },
+  }
 }
