@@ -4,7 +4,6 @@
     "email": "notender01@gmail.com"
   },
   "records": {
-    "CNAME": "drew.hidencloud.com"
+    "NS": ["daisy.ns.cloudflare.com", "hal.ns.cloudflare.com"]
   },
-  "proxied": true
 }
